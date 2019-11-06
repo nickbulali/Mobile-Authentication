@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "433849333360",
+    "firebase_url": "https://petrol-application-cfe15.firebaseio.com",
+    "project_id": "petrol-application-cfe15",
+    "storage_bucket": "petrol-application-cfe15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433849333360:android:6a8ea11dda8195dde7e6b5",
+        "android_client_info": {
+          "package_name": "com.example.petrolapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433849333360-9o193cmmgcq4jfjc63mhqvvpkv7mc345.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIGVMgbTuwN4KaOwPqOngclip4wBf2Ll4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433849333360-9o193cmmgcq4jfjc63mhqvvpkv7mc345.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
